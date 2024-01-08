@@ -1,4 +1,4 @@
-# Bluetooth Pageturning pedal
+# Bluetooth Page-Turning pedal
 Musicians utilize Bluetooth Pedals to turn pages on electronic music. However, these gadgets tend to be very expensive in proportion to their complexity. For example,while pedals are often between $75-100, they only require simple (and inexpensive) electronics.
 
 #  Version 1, Prototype
