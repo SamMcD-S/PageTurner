@@ -8,9 +8,10 @@ Materials:
 * Button
 ### Current Bill of Material Price: $40
 ### Prototype
-![The front of the pedal](/relative/path/to/img.jpg?raw=true "Optional Title")
-![A side profile](/relative/path/to/img.jpg?raw=true "Optional Title")
-![The bottom](/relative/path/to/img.jpg?raw=true "Optional Title")
+![The front of the pedal](https://github.com/SamMcD-S/PageTurner/blob/main/Front.jpeg)
+![A side profile](https://github.com/SamMcD-S/PageTurner/blob/main/Side.jpeg)
+![The bottom](https://github.com/SamMcD-S/PageTurner/blob/main/Bottom.jpeg)
+
 # Version 2, Smaller
 The first revision works, but isn't particularly efficient. The ESP32, while inexpensive, is seriously overkill for this project, and the project (hand soldered on proto-board) takes a fairly large amount of space. 
 For the second revision, I'll utilize a new microprocessor, and design a custom PCB and case.
