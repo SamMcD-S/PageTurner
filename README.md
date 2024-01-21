@@ -3,7 +3,7 @@ Musicians utilize Bluetooth Pedals to turn pages while reading music electronica
 
 #  Version 1, Prototype
 Materials:
-* 2500mHh Lipo Battery
+* 2500mAh Lipo Battery
 * Sparkfun Esp32 Thing Plus C
 * Button
 * Adafruit Battery Managment Board
