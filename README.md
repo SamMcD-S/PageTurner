@@ -8,8 +8,9 @@ Materials:
 * Button
 ### Current Bill of Material Price: $40
 ### Prototype
-
-
+![The front of the pedal](/relative/path/to/img.jpg?raw=true "Optional Title")
+![A side profile](/relative/path/to/img.jpg?raw=true "Optional Title")
+![The bottom](/relative/path/to/img.jpg?raw=true "Optional Title")
 # Version 2, Smaller
 The first revision works, but isn't particularly efficient. The ESP32, while inexpensive, is seriously overkill for this project, and the project (hand soldered on proto-board) takes a fairly large amount of space. 
 For the second revision, I'll utilize a new microprocessor, and design a custom PCB and case.
